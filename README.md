@@ -10,8 +10,9 @@ git clone https://github.com/hellopradeep69/tmux.git
  or
 1. Recommended way 
 ```bash
+mkdir ~/tmux-temp
 git clone https://github.com/hellopradeep69/tmux.git ~/tmux-temp
-cp ~/tmux-temp/tmux.conf ~/.tmux.conf
+cp ~/tmux-temp/tmux/.tmux.conf ~/.tmux.conf
 rm -rf ~/tmux-temp
 ```
 

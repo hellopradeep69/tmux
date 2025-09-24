@@ -1,14 +1,29 @@
-## i love tmux 
-- who doesnt 
-----------
+## i love tmux
+
+- who doesnt
+
+---
+
+### Before installation
+
+```bash
+sudo apt install acpi
+```
+
+---
+
 ### instruction
 
-1. Clone This Repositories 
+1. Clone This Repositories
+
 ```bash
 git clone https://github.com/hellopradeep69/tmux.git
 ```
- or
-1. Recommended way 
+
+or
+
+1. Recommended way
+
 ```bash
 mkdir ~/tmux-temp
 git clone https://github.com/hellopradeep69/tmux.git ~/tmux-temp
@@ -17,14 +32,17 @@ rm -rf ~/tmux-temp
 ```
 
 2. dont forget tmp plugin.. BRUH!
+
 ```bash
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-----------
-### screenshot 
+---
+
+### screenshot
+
 - no screenshot for you ig !!! find out yourself how it look lol .
-----------
+
+---
 
 # bye bye
-

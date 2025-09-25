@@ -1,3 +1,4 @@
+# .tmux.conf 
 ## i love tmux
 
 - who doesnt
@@ -7,7 +8,7 @@
 ### Before installation
 
 ```bash
-sudo apt install acpi
+sudo apt update && sudo apt install acpi tmux
 ```
 
 ---

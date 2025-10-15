@@ -44,6 +44,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ### scripts that are and you should try
 
 [topen](https://github.com/hellopradeep69/topen.git)
+
 [tmenux](https://github.com/hellopradeep69/Tmenux.git)
 
 ---

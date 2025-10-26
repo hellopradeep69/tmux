@@ -9,7 +9,7 @@
 ### Before installation
 
 ```bash
-sudo apt update && sudo apt install acpi tmux
+sudo apt update && sudo apt install tmux
 ```
 
 ---

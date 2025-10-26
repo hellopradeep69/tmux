@@ -3,6 +3,7 @@
 ## i love tmux
 
 - who doesnt
+- Simple config
 
 ---
 
@@ -51,7 +52,9 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 ### screenshot
 
-- no screenshot for you ig !!! find out yourself how it look lol .
+~- no screenshot for you ig !!! find out yourself how it look lol .~
+
+![tmux](Assets/tmux.png)
 
 ---
 
